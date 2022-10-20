@@ -1,0 +1,3 @@
+﻿  TestFntastic.cpp
+C:\Users\27819\source\repos\TestFntastic\TestFntastic\TestFntastic.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+  TestFntastic.vcxproj -> C:\Users\27819\source\repos\TestFntastic\Debug\TestFntastic.exe
